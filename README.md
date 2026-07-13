@@ -6,14 +6,14 @@
 <h3 align="center">AI/ML Engineer | Software Developer | AI/ML Researcher | Gen-AI Engineer  </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=orignlkartik1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=0xMozammil&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 # 🧭 Mission Control
 
 ```yaml
-Engineer: Kartik Gupta
+Engineer: Mozammil Imteyaz
 Current Focus: Artificial Intelligence
 Primary Language: Python
 Secondary Language: Java
@@ -180,7 +180,7 @@ Real products.
 # ☕ Debug Log
 
 ```python
-class KartikGupta:
+class Mozammil:
 
     def __init__(self):
         self.role = "AI Engineer in Progress"
@@ -205,8 +205,8 @@ class KartikGupta:
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=orignlkartik1&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orignlkartik1&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xMozammil&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMozammil&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -214,7 +214,7 @@ class KartikGupta:
 ## 🔥 Consistency Tracker
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=orignlkartik1&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mozammil&theme=tokyonight"/>
 </p>
 
 ---
