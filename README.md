@@ -214,7 +214,7 @@ class Mozammil:
 ## 🔥 Consistency Tracker
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mozammil&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xMozammil&theme=tokyonight"/>
 </p>
 
 ---
